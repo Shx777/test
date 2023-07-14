@@ -14,6 +14,8 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error
 import math
 from matplotlib.font_manager import FontProperties  # 画图时可以使用中文
 
+#     update
+
 # 加载数据
 f = pd.read_csv("large1.csv")
 #large1   large11 large10 data1
